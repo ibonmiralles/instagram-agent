@@ -1,7 +1,8 @@
 # Referentes (capturas del 26 nov 2026)
 
 No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
-**Pendiente:** darlos de alta en Metricool → Competidores para que el agente lea sus reels cada noche.
+**En Metricool → Competidores (desde el 26 nov):** @anderarteagabeitia, @andrea.perez13,
+@sarah_almagro_vallejo, @desivila98, @tommiazga. Las demás cuentas solo están en esta tabla.
 
 | Cuenta | Seguidores | Qué es | Qué copiarle (la idea, no el contenido) |
 |---|---|---|---|
@@ -19,6 +20,7 @@ No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
 | @saraandressport | 39,3K | Atleta paralímpica, speaker, escritora | Conferencias "Vivir sin límites", marcas (Sanitas, Iberia) |
 | @evamoral82 | 27,5K | Bronce Tokio 2020 triatlón | Prensa, premios, marcas |
 | @albertllovera | 83,2K | Paraplejia D3, piloto Dakar, JJOO 84 | Conferencias de superación, embajador UNICEF |
+| @tommiazga | 88K | Atleta en silla de EE. UU.: maratón de Nueva York con su silla de diario, CrossFit | Patrocinios (cbdMD, Ascent Protein, LSKD) **y modelaje**. El perfil más parecido a lo que busca Ibon (en Metricool) |
 | @bsainsbury_ | 2K | Triple campeón del mundo de paracanoe | Referente técnico de paracanoe (poca audiencia: el palmarés no basta, hay que contar la historia) |
 
 ## Patrones comunes en los que tienen +80K
