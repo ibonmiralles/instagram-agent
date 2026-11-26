@@ -21,6 +21,9 @@ Basada en 52 reels y 6 carruseles de Metricool (feb–nov 2026). Ver `informes/2
 - Contraste: "Hace 14 meses no podía sentarme solo. Hoy compito en Hyrox."
 - Serie numerada: "De cero a paralímpico · Día 23", "Kite en silla · Parte 3".
 - Confesión: "Lo que nadie te cuenta de una lesión medular…"
+- **Para gente que no te sigue (reels de prueba), di la lesión en el primer segundo.** Aprendizaje del
+  26 nov: el reel de BFR con Gabi con el gancho "Entreno con los brazos estrangulados" tuvo 66% de salto y
+  120 vistas en 4 h como reel de prueba. Versión 2: "LESIÓN MEDULAR D5 y Gabi me pone ESTO en los brazos".
 
 ## Cuándo publicar (Metricool, hora de Madrid)
 
