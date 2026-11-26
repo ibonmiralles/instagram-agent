@@ -31,3 +31,11 @@ No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
 4. **Honestidad sobre la discapacidad** (dolor, sexualidad, baño, accesibilidad) = mucho compartido.
 5. **Ingresos más allá de Instagram**: conferencias, libro/ebook, tienda, agencia, códigos de marca.
 6. **Destacadas organizadas** por deporte, marcas y temas.
+
+## Aprendizajes de Metricool (actualizado 26 nov 2026)
+
+- **La cara B del logro** (@sarah_almagro_vallejo): tras un oro mundial, el carrusel contando la herida
+  infectada y los miedos tuvo casi las mismas interacciones que la medalla.
+- **Modelaje > publi** (@tommiazga): su foto de retrato #menswear tiene 13 veces más interacciones que su
+  reel patrocinado de la misma semana.
+- **Momentos tontos y reales > anuncio** (@desivila98): "me compré una llave de chocolate" duplica a su reel de Visa.
