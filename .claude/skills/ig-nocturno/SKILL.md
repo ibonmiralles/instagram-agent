@@ -13,7 +13,10 @@ Ibon está durmiendo: trabaja solo y no le hagas preguntas. Si algo falla, anót
    rehacerlo entero.
 4. Haz commit de los archivos nuevos en la rama de trabajo con un mensaje como
    "Informe nocturno AAAA-MM-DD" y haz push.
-5. Crea un **borrador** en Gmail (no lo envíes) para ibon con asunto "📲 Instagram · AAAA-MM-DD" y en el cuerpo:
+5. **Envía** un correo con Gmail (`send_message` con `to`, `subject` y `body`; no lo dejes como borrador)
+   a la propia cuenta de Ibon, con asunto "📲 Instagram · AAAA-MM-DD". Es lo único que se envía: va a
+   su propio correo, nunca a terceros. Si el envío falla, crea un borrador con el mismo contenido y explica
+   el error al principio. En el cuerpo:
    - Cómo fue ayer (3 cifras: vistas, seguidores ganados, mejor reel).
    - Lo más interesante de los referentes (2 líneas).
    - **Qué grabar hoy** (1–2 reels con gancho y guion corto).
