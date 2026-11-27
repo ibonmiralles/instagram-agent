@@ -1,4 +1,4 @@
-# Estrategia de contenido (v2, 27 nov 2026)
+# Estrategia de contenido (v2.1, 27 nov 2026)
 
 **Cambio respecto a la v1 (decisión de Ibon, 27 nov):** el perfil es de **evolución deportiva en deporte
 adaptado**, con vídeos motivadores y en tendencia. **Fuera** el contenido de vida práctica con la
@@ -26,13 +26,34 @@ Datos de base: 52 reels y 6 carruseles de Metricool (feb–nov 2026). Ver `infor
 | 3. **Road to / competición** | 25% | Serie con reto y fecha: preparación, nervios, día de la prueba y resultado | "Road to Hyrox · Cap. 3", "De cero a paralímpico · 01", regatas de paracanoe, campus de kite |
 | 4. **Aventura y deportes nuevos** | 15% | Primera vez en un deporte, planos bonitos (mar, Menorca, viajes) | Sit-kite, sit-wake, piragua en el mar. Estilo @fernandolife: cinematográfico |
 
-**Excepción "cómo lo hago" (de vez en cuando, máximo 1 de cada 8 reels):** solo si es **deportivo**
-(subirse a la piragua, a la tabla de kite, a la máquina de Hyrox). En el vídeo **se ve la acción, sin
-explicación ni pasos en pantalla**. La explicación va en la **descripción**: "Así me subo a la piragua cada día…".
+**Plan B: adaptación al día a día (v2.1, 27 nov).** Cuando no haya deporte que subir, se puede proponer
+un vídeo corto del día a día de Ibon: subirse al coche, hacer la compra, bipedestación, cambiarse, vestirse,
+subirse a la piragua un día cualquiera. Siempre en **formato "sin explicar"** (abajo): se ve la acción de
+principio a fin, sin pasos ni texto explicativo en el vídeo, y una frase corta en la descripción.
+Va marcado como **plan B** en el plan, nunca ocupa el sitio de un reel de deporte, y como mucho 1 a la semana.
 
-**No proponer nunca:** objetos de la bolsa, cuidado de la silla, coche, vestirse, baño, sondaje, tips para ir
-en silla, "cosas que me dicen por ir en silla", tutoriales de accesibilidad. El humor y la historia personal
-caben, pero ligados al deporte (los nervios antes de competir, el primer vuelco en la piragua).
+**Sigue fuera:** objetos de la bolsa, cuidado de la silla, baño, sondaje, vídeos-tutorial con consejos para ir
+en silla, "cosas que me dicen por ir en silla", tutoriales de accesibilidad.
+
+## Formato "sin explicar" (experimento, desde el 27 nov)
+
+Inspirado en @rubenova: Ibon empieza una acción y la acaba (ej.: de la silla al agua en la playa), sin texto en
+pantalla ni voz explicando. Descripción de **una sola frase**. Funciona porque la gente se queda a ver cómo
+termina. Reglas: plano fijo o seguido, sin cortes que escondan la parte difícil, que el final se vea claro
+(dentro del agua, remando, de pie). Ideal para subirlo primero como **trial reel**.
+Medir en 48–72 h: tasa de salto (`IGRE30`), tiempo medio (`IGRE24`) y compartidos (`IGRE21`) frente a la media.
+
+## Trial reels
+
+Instagram deja publicar un reel como **prueba**: se enseña primero a gente que no te sigue. Usarlo para
+experimentos (formatos nuevos, ganchos nuevos). Ibon lo marca a mano en la app al publicar (Metricool no lo
+hace). Si a las 48–72 h va mejor que la media de sus reels, compartirlo con sus seguidores; si no, no pasa nada.
+El plan dice qué reels van como trial y el día que toca revisar el resultado.
+
+## Carruseles
+
+No todo tienen que ser reels. 1 carrusel cada 1–2 semanas: resumen de competición, "mes en fotos", progreso
+en fotos (mes 1 vs hoy), lo que aprendió de un deporte nuevo. Los "dumps" mensuales le dan 8–24K.
 
 **Dejar de hacer (sigue vigente):** clips de entreno sin edición ni dato, con una frase genérica.
 
