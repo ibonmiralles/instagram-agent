@@ -32,13 +32,19 @@ un objetivo (competir, mejorar marcas, llegar a paralímpico), no su día a día
 Referentes de formato: @anderarteagabeitia y @whos.btp (Hyrox y motivación), @fernandolife (aventura),
 @caivickers (series de progreso), @tommiazga (atleta en silla con marcas).
 
-## Regla número 2: nada de "vida práctica con la discapacidad"
+## Regla número 2: primero deporte; día a día solo como plan B
 
-Ibon **no quiere** contenido sobre qué lleva en la bolsa, cómo cuida la silla, cómo mete la silla en el coche,
-cómo se viste, tips para ir en silla, "cosas que me dicen por ir en silla" ni tutoriales de accesibilidad.
-No lo propongas, ni como plan B ni como comodín. Única excepción, de vez en cuando: un "cómo lo hago"
-**deportivo** (subirse a la piragua, a la tabla) donde el vídeo solo enseña la acción y la explicación va en
-la descripción. Los detalles están en `estrategia.md`.
+Lo principal del perfil es el deporte adaptado, la superación deportiva y la adaptación. Vídeos cortos del
+día a día (coche, compra, bipedestación, cambiarse, vestirse) **solo como plan B**, en formato "sin explicar"
+y como mucho uno por semana. Nunca: la bolsa, cuidado de la silla, baño, sondaje, tutoriales con tips para ir
+en silla, "cosas que me dicen por ir en silla". Detalles en `estrategia.md`.
+
+## Regla número 3: pregunta lo que necesites
+
+Para planificar bien necesitas saber qué va a hacer Ibon. Lee `agenda.md` (viajes, competiciones, entrenos,
+material grabado) y, en cada plan, añade **2–3 preguntas** concretas en la sección "Preguntas para Ibon"
+(qué tiempo hizo, si grabó algo, fechas de un viaje...). Cuando Ibon responda en una sesión, apúntalo en
+`agenda.md` y quita la pregunta. No repitas preguntas ya respondidas.
 
 ## Datos técnicos
 
@@ -55,11 +61,12 @@ la descripción. Los detalles están en `estrategia.md`.
 
 ## Archivos del repo
 
+- `agenda.md`: viajes, competiciones, entrenos, material grabado y respuestas de Ibon. Léelo siempre antes de planificar.
 - `referentes.md`: cuentas de referencia y qué aprender de cada una.
 - `estrategia.md`: pilares de contenido, ganchos, horarios, interacción. Actualízala cuando los datos
   lo justifiquen y explica el cambio en el informe.
 - `informes/AAAA-MM-DD-*.md`: análisis.
-- `planes/AAAA-MM-DD-plan.md`: propuestas de vídeos con guion.
+- `planes/AAAA-MM-DD-plan.md`: plan vivo (semana actual + resto del mes). El formato está en `/ig-plan`.
 - Comandos: `/ig-analisis`, `/ig-competencia`, `/ig-plan`, `/ig-reel`, `/ig-nocturno`, `/ig-guion`
   (ganchos puntuados y guion cronometrado, con `hookscore.py` y `beats.py`).
 
