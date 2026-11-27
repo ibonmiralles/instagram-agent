@@ -35,3 +35,12 @@ el reparto reel/post es mi lectura de los datos.)*
   entreno" en algo útil. Es la forma de salvar los entrenos que hoy no funcionan ("Aunque cueste": 260).
 - @andrea.perez13 esta semana solo ha subido avisos de su vlog de YouTube (308–425, muy por debajo de su
   media): confirma que los avisos no crecen la cuenta.
+
+## 🔄 Actualización 27 nov (mediodía): 2 reels nuevos del 26 nov
+
+| Interacciones | Cuenta | Publicación | Lectura |
+|---|---|---|---|
+| 425 (396 likes + 29 com.) | @sarah_almagro_vallejo | "¿Qué sería la vida sin un poco de humor? 🤪" | Humor justo después del oro y de la cara B: cambiar de tono mantiene la cuenta viva |
+| 422 (401 likes + 21 com.) | @desivila98 | #Publi Black Friday de terapia online, con su historia ("Con 16 años mi vida cambió en un segundo") | **Publi que funciona** (en su media) porque va dentro de una historia personal, no como oferta pelada. Lo contrario que el anuncio de cbdMD de @tommiazga (50) |
+
+Conclusión para Ibon: si una marca te propone algo de Black Friday, que sea **historia primero, oferta al final**.
