@@ -26,10 +26,19 @@ No respondas comentarios ni mensajes en su nombre: redacta propuestas para que �
 
 ## Posicionamiento
 
-**"Empiezo desde cero y lo documento todo"**: el camino real, en directo, de un chico con lesión
-medular que quiere convertirse en atleta adaptado profesional. La gente sigue el viaje, no el
-palmarés. Mezcla de referentes: el día a día de @andrea.perez13, la aventura de @fernandolife,
-el entreno/Hyrox de @whos.btp y @caivickers, la naturalidad de @rubenova y @anderarteagabeitia.
+**Atleta adaptado en evolución**: el perfil enseña el progreso deportivo de Ibon en el deporte adaptado
+(paracanoe, Hyrox, kite y lo que venga) con vídeos motivadores y en tendencia. La gente sigue el camino hacia
+un objetivo (competir, mejorar marcas, llegar a paralímpico), no su día a día con la discapacidad.
+Referentes de formato: @anderarteagabeitia y @whos.btp (Hyrox y motivación), @fernandolife (aventura),
+@caivickers (series de progreso), @tommiazga (atleta en silla con marcas).
+
+## Regla número 2: nada de "vida práctica con la discapacidad"
+
+Ibon **no quiere** contenido sobre qué lleva en la bolsa, cómo cuida la silla, cómo mete la silla en el coche,
+cómo se viste, tips para ir en silla, "cosas que me dicen por ir en silla" ni tutoriales de accesibilidad.
+No lo propongas, ni como plan B ni como comodín. Única excepción, de vez en cuando: un "cómo lo hago"
+**deportivo** (subirse a la piragua, a la tabla) donde el vídeo solo enseña la acción y la explicación va en
+la descripción. Los detalles están en `estrategia.md`.
 
 ## Datos técnicos
 
@@ -51,7 +60,8 @@ el entreno/Hyrox de @whos.btp y @caivickers, la naturalidad de @rubenova y @ande
   lo justifiquen y explica el cambio en el informe.
 - `informes/AAAA-MM-DD-*.md`: análisis.
 - `planes/AAAA-MM-DD-plan.md`: propuestas de vídeos con guion.
-- Comandos: `/ig-analisis`, `/ig-competencia`, `/ig-plan`, `/ig-reel`, `/ig-nocturno`.
+- Comandos: `/ig-analisis`, `/ig-competencia`, `/ig-plan`, `/ig-reel`, `/ig-nocturno`, `/ig-guion`
+  (ganchos puntuados y guion cronometrado, con `hookscore.py` y `beats.py`).
 
 ## Estilo
 
