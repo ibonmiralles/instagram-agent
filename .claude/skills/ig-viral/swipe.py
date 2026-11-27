@@ -33,11 +33,11 @@ import statistics
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HOOKS = os.path.join(HERE, "..", "ig-reel", "hooks.json")
+HOOKS = os.path.join(HERE, "..", "ig-guion", "hooks.json")
 WORD_RE = re.compile(r"[A-Za-z0-9$%'’-]+")
 
 try:                                              # optional: score the hooks too
-    sys.path.insert(0, os.path.join(HERE, "..", "ig-reel"))
+    sys.path.insert(0, os.path.join(HERE, "..", "ig-guion"))
     from hookscore import run as score_hook       # noqa: E402
 except Exception:                                 # ig-viral copied on its own
     score_hook = None
@@ -174,7 +174,7 @@ def to_markdown(a):
 def main():
     ap = argparse.ArgumentParser(description="Rank collected reels by outlier multiple.")
     ap.add_argument("input", nargs="?", default="-", help="TSV file, or - for stdin")
-    ap.add_argument("--hooks", default=HOOKS, help="path to ig-reel/hooks.json")
+    ap.add_argument("--hooks", default=HOOKS, help="path to ig-guion/hooks.json")
     ap.add_argument("--out", help="also write the swipe file as markdown here")
     ap.add_argument("--json", action="store_true")
     args = ap.parse_args()

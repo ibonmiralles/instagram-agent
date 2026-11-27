@@ -52,7 +52,7 @@ and be willing to conclude something the user will not like:
 
 - **Hold at 3 seconds.** If the top and bottom differ here, it is the hook and
   nothing else, and everything downstream is a distraction.
-- **Hook formula.** Which ids from `ig-reel/hooks.json` are in the top five?
+- **Hook formula.** Which ids from `ig-guion/hooks.json` are in the top five?
 - **Format.** Reel, carousel, single image.
 - **Length.** Group into under 15s, 15 to 30s, 30 to 60s, over 60s.
 - **Theme.**

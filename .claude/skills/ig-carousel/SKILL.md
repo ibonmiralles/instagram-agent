@@ -24,7 +24,7 @@ framework with parts, a before and after, a list worth screenshotting. Use a
 Reel when the idea has motion, a face, or a payoff that has to be seen
 happening.
 
-If the idea is one claim, it is neither. Hand it to `/ig-reel` and say so.
+If the idea is one claim, it is neither. Hand it to `/ig-guion` and say so.
 
 ## Structure
 
