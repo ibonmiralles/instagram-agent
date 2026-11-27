@@ -46,8 +46,8 @@ Medir en 48–72 h: tasa de salto (`IGRE30`), tiempo medio (`IGRE24`) y comparti
 ## Trial reels
 
 Instagram deja publicar un reel como **prueba**: se enseña primero a gente que no te sigue. Usarlo para
-experimentos (formatos nuevos, ganchos nuevos). Ibon lo marca a mano en la app al publicar (Metricool no lo
-hace). Si a las 48–72 h va mejor que la media de sus reels, compartirlo con sus seguidores; si no, no pasa nada.
+experimentos (formatos nuevos, ganchos nuevos). Se puede marcar en la app al publicar o dejarlo preparado en
+Metricool como `TRIAL_REEL` (tipo de `instagramData`), siempre con `createScheduledPostForReview`. Si a las 48–72 h va mejor que la media de sus reels, compartirlo con sus seguidores; si no, no pasa nada.
 El plan dice qué reels van como trial y el día que toca revisar el resultado.
 
 ## Carruseles

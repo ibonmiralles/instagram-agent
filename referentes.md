@@ -3,6 +3,9 @@
 No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
 **En Metricool → Competidores (desde el 26 nov):** @anderarteagabeitia, @andrea.perez13,
 @sarah_almagro_vallejo, @desivila98, @tommiazga. Las demás cuentas solo están en esta tabla.
+**Cambio pendiente (27 nov):** Ibon quiere quitar a @sarah_almagro_vallejo de Competidores y poner a
+@cam.treble. Metricool aún no le deja hacerlo. Mientras @cam.treble no aparezca en `IGCO*`, analízala solo
+con lo que se sepa de ella y dilo en el informe; cuando aparezca, actualiza esta línea.
 
 | Cuenta | Seguidores | Qué es | Qué copiarle (la idea, no el contenido) |
 |---|---|---|---|
@@ -15,6 +18,7 @@ No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
 | @luciamg_818 | 216K | Técnico de enfermería con lesión medular, reel creator | Historia personal con capturas reales (chat del 112), prensa como prueba social, temas tabú (sexualidad) |
 | @superlu_6 | 88,6K | Niña con lesión medular, cuenta familiar | Storytelling emocional: "La verdad que nunca te había contado… hasta hoy", "Mi historia" |
 | @sarah_almagro_vallejo | 189K | Surfista campeona del mundo (sin manos/pies) | Ganchos-pregunta: "¿Cómo te subes a la tabla si no tienes manos?". Tienda propia |
+| @cam.treble | ? | Añadida por Ibon el 27 nov como referente (pendiente de que cuente por qué) | Por definir: en el próximo plan, pregúntale a Ibon qué le interesa de esta cuenta |
 | @eme_cabanyes | 95,9K | Surf y snow adaptado, conferenciante | Marca personal "Siempre valiente", agencia de representación |
 | @desivila98 | 137K | Atleta paralímpica | Patrocinios grandes (Adidas, Toyota, Iberdrola, Visa, Ottobock) con destacadas por marca. Management |
 | @saraandressport | 39,3K | Atleta paralímpica, speaker, escritora | Conferencias "Vivir sin límites", marcas (Sanitas, Iberia) |
