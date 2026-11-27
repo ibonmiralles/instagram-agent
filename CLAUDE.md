@@ -61,6 +61,7 @@ material grabado) y, en cada plan, añade **2–3 preguntas** concretas en la se
 
 ## Archivos del repo
 
+- `estilo.md`: lo que le gusta a Ibon en los vídeos (subtítulos, letra, colores, transiciones, portadas). Síguelo en guiones y portadas.
 - `agenda.md`: viajes, competiciones, entrenos, material grabado y respuestas de Ibon. Léelo siempre antes de planificar.
 - `referentes.md`: cuentas de referencia y qué aprender de cada una.
 - `estrategia.md`: pilares de contenido, ganchos, horarios, interacción. Actualízala cuando los datos
