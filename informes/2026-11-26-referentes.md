@@ -45,3 +45,28 @@ Metricool da likes, comentarios, interacciones y engagement (no vistas) de los r
 - **"Ander y yo en el mismo Hyrox"** (si acepta colaborar) o, si no, **"¿Por qué no hay categoría para mí en Hyrox?"**.
 - **"Mi reto para 2027"**, con fecha y número concreto, para lanzar entre el 28 y el 31 de diciembre.
 - **"3 cosas que llevo siempre en la bolsa de deporte por mi lesión"** (consejo práctico).
+
+---
+
+## Actualización nocturna (semana 19–25 nov)
+
+Fuente: Metricool Competidores (interacciones = likes + comentarios; Metricool no da vistas de la competencia).
+@anderarteagabeitia no ha publicado esta semana.
+
+| Interacciones | Cuenta | Publicación | Por qué funciona |
+|---|---|---|---|
+| 856 | @sarah_almagro_vallejo | Carrusel "Campeona del Mundo PS-P2 🥇" (23 nov) | Resultado + inseguridad ("me he sentido muy insegura") + agradecimientos con nombre |
+| 791 | @sarah_almagro_vallejo | Carrusel "Pero no todo es de color de rosas" (24 nov) | **La cara B de la medalla**: herida infectada, hospital, miedos. Al día siguiente del oro |
+| 668 | @tommiazga | Foto "#model #menswear #portrait" (19 nov) | Su modelaje rinde **13 veces más** que su reel de marca (cbdMD, 50) |
+| 425 | @andrea.perez13 | Reel "Mi día de hoy ha sido esto" (20 nov) | Día a día emocional; aun así lejos de su media (avisos de YouTube) |
+| 315 | @desivila98 | "Me compré una llave de chocolate" (22 nov) | Momento tonto y real: el doble que su reel de Visa (142) |
+
+**Lo que menos:** publis con texto de anuncio (Tom con cbdMD: 50; Desirée con Visa: 142) y avisos de
+"nos vemos en YouTube" (Andrea: 316).
+
+### Para ti
+1. **Patrón Sarah: logro → al día siguiente, la cara B.** Lo hiciste bien con el reel de sensaciones del Hyrox
+   (9,3K). Próximo: "Lo que no se vio de mi 2º puesto en Hyrox" o, tras RTVE, "Lo que no salió en la tele".
+2. **Patrón Tom: el modelaje funciona.** Una foto cuidada tipo retrato (con @solepawel de fotógrafa) en el
+   carrusel del mes. Te sirve de portfolio para marcas de ropa.
+3. **Las publis, siempre dentro de una historia tuya** (confirmado otra semana más).
