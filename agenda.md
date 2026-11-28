@@ -15,7 +15,7 @@ competición, un vídeo grabado, una respuesta), se apunta aquí con la fecha.
 
 | Grabado | Qué es | Plan |
 |---|---|---|
-| 26 nov 2026 | Subirse a la piragua un día de entreno | Formato "sin explicar", hoy 27 nov como trial reel |
+| 26 nov 2026 | Subirse a la piragua un día de entreno | Previsto como trial reel el 27 nov. Metricool no lo muestra (28 nov): pendiente de que Ibon confirme si se subió |
 
 ## Lo que Ibon ha decidido (historial)
 
@@ -32,3 +32,5 @@ competición, un vídeo grabado, una respuesta), se apunta aquí con la fecha.
 4. ¿Quién te puede grabar o editar habitualmente (Iván, @solepawel, alguien del club)?
 5. ¿Qué vas a hacer en Bilbao y en qué fechas?
 6. ¿Cuándo, a qué hora y en qué programa se emite lo de RTVE?
+7. (28 nov) ¿Subiste el viernes 27 la piragua como trial reel? Metricool no lo muestra.
+8. (28 nov) ¿Tienes vídeo de tus primeros días en la silla o en el hospital para un antes/después?

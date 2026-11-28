@@ -41,3 +41,7 @@ No son competencia directa: son el modelo de a dónde quiere llegar Ibon.
 - **Momentos tontos y reales > anuncio** (@desivila98): "me compré una llave de chocolate" duplica a su reel de Visa.
 - **La marca dentro del entreno, no como anuncio** (@tommiazga, 21–24 nov): el entreno con el workout escrito y
   su proteína tuvo 372 interacciones; el reel de oferta de Black Friday de cbdMD, 50.
+- **La publi dentro de una historia** (@desivila98, 26 nov): su reel #Publi que empieza con "Con 16 años mi
+  vida cambió en un segundo" tuvo 675 interacciones, 4,5 veces más que su publi de Visa (148).
+- **"Mi mar" como sello** (@sarah_almagro_vallejo, 27 nov): vuelve a su playa tras cada campeonato.
+  Para Ibon, Menorca puede hacer ese papel.
